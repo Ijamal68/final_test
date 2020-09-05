@@ -1,4 +1,4 @@
-include <iostream> 
+#include <iostream> 
 
 int main() {
 
@@ -6,7 +6,9 @@ int main() {
 
 std::cout << "Hello from the local machine\n" ; 
 
+int ratio_krtwo ; 
 
+ratio_krtwo = 3 ;
 
     return 0; 
 
